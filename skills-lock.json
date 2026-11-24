@@ -1,0 +1,37 @@
+{
+  "version": 2,
+  "skills": {
+    "frontend-design": {
+      "source": "anthropics/skills",
+      "commit": "e4bb5d960d87126ff3b3a8af1a104b7db67560ba",
+      "sourceType": "github",
+      "skillPath": "skills/frontend-design/SKILL.md",
+      "computedHash": "83485963700bcf11d5bf78118facb301676b69d918fee2e45a95e7f1a2840f6c",
+      "installMode": "copy"
+    },
+    "pixijs": {
+      "source": "pixijs/pixijs-skills",
+      "commit": "93784384269b1d8677fb2ae166c81d750cba4281",
+      "sourceType": "github",
+      "skillPath": "skills/pixijs/SKILL.md",
+      "computedHash": "07c27f721df5b1ddf896548054022ded991da53d4e796b9c8c73c2221e6ac11e",
+      "installMode": "copy"
+    },
+    "pixijs-3d": {
+      "source": "pixijs/pixijs-skills",
+      "commit": "93784384269b1d8677fb2ae166c81d750cba4281",
+      "sourceType": "github",
+      "skillPath": "skills/pixijs-3d/SKILL.md",
+      "computedHash": "e0c34b9a3d0258726dae2919b061dde079c3a6b20d0fc92c68b3d42e0179c27c",
+      "installMode": "copy"
+    },
+    "roguelike": {
+      "source": "gamedev-skills/awesome-gamedev-agent-skills",
+      "commit": "c6ca6c41c839b68319ffc08430b99ab768debc32",
+      "sourceType": "github",
+      "skillPath": "skills/genres/roguelike/SKILL.md",
+      "computedHash": "4d6e1b811e639a4a7b768ad2fd3fc52dbfabee90d1d6c306e126678699e01aa6",
+      "installMode": "copy"
+    }
+  }
+}
